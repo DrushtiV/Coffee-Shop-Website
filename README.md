@@ -1,6 +1,4 @@
 # Coffee-Shop-Website
-Responsive Coffee Website HTML, JavaScript, CSS
-
 I've created a comprehensive content guide for your coffee website. The content includes:
 
 Key Features of This Content:
